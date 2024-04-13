@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+  }
+
+  
+  .accordion-body,p {
+    line-height: 1.5; 
+    font-size: 17px;
+  }
+
+  p.lead{
+    text-align: center;
+  }
+
+.card #imgvino, #imgpaises, .imgtopvinos{
+  max-width: 100%;
+      height: auto;
+      border-radius: 10px; 
+      margin: 1em 0em 1em 0em;
+}
+.imgproductosmarcas{
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 10px; 
+  margin: 1em 0em 1em 0em;
+}
+
+.cardtop10vinos{
+  height: 100%
+}
+
+.iconotopvinos{
+  max-width: 10%;
+      height: auto;
+      border-radius: 10px; 
+      margin: 1em 0em 1em 0em;
+}
+
+a{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+
+a #aespaña,#aitalia,#afrancia{
+  max-width: 50%;
+      height: auto;
+      border-radius: 10px; 
+      margin: 1em 0em 1em 0em;
+
+}
+
+#aespaña:hover,
+#aitalia:hover,
+#afrancia:hover {
+  transform: scale(1.2); 
+  transition: transform 0.3s; 
+}
+
+
+
+
+
+
